@@ -10,7 +10,7 @@
     "bundle": "browserify public/js/index.js -o public/js/bundle.js & nodemon server/server.js"
   },
   "engines": {
-    "node": "6.2.2"
+    "node": "12.18.4"
   },
   "author": "",
   "license": "ISC",
