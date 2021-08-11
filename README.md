@@ -25,4 +25,3 @@ Now go to your browser and open this link [localhost](http://localhost:3000/)
 ## Features
 
 -Real time communication with multiple users <br />
--Ability to share your location with strangers (not recomended for kids)
